@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT books (book+)>
+<!ELEMENT book (title, author, published_year, isbn_10, isbn_13, page_count, categories, thumbnail, description)>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT published_year (#PCDATA)>
+<!ELEMENT isbn_10 (#PCDATA)>
+<!ELEMENT isbn_13 (#PCDATA)>
+<!ELEMENT page_count (#PCDATA)>
+<!ELEMENT categories (category+)>
+<!ELEMENT category (#PCDATA)>
+<!ELEMENT thumbnail (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

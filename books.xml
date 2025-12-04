@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE records SYSTEM "books.dtd">
+
+<books>
+  <book id="1">
+    <original_query>Frankenstein</original_query>
+    <title>Frankenstein</title>
+    <authors>Mary Shelley</authors>
+    <published_year>2004</published_year>
+    <isbn_10>0743487583</isbn_10>
+    <isbn_13>9780743487580</isbn_13>
+    <page_count>353</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=UL6Cwv2Z1iQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>"Includes detailed explanatory notes, an overview of key themes, and more"--Cover.</description>
+  </book>
+  <book id="2">
+    <original_query>Dracula</original_query>
+    <title>Dracula</title>
+    <authors>Bram Stoker</authors>
+    <published_year>1897</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>384</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=T1VDAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>A naive young Englishman travels to Transylvania to do business with a client, Count Dracula. After showing his true and terrifying colors, Dracula boards a ship for England in search of new, fresh blood. Unexplained disasters begin to occur in the streets of London before the mystery and the evil doer are finally put to rest. Told in a series of news reports from eyewitness observers to writers of personal diaries, this has a ring of believability.</description>
+  </book>
+  <book id="3">
+    <original_query>Norwegian Woods</original_query>
+    <title>Norwegian Wood</title>
+    <authors>Haruki Murakami</authors>
+    <published_year>2001</published_year>
+    <isbn_10>1860468187</isbn_10>
+    <isbn_13>9781860468186</isbn_13>
+    <page_count>389</page_count>
+    <categories>Man-woman relationships</categories>
+    <thumbnail>http://books.google.com/books/content?id=27KePwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Toru Watanabe is looking back on the love and passions of his life and trying to make sense of it all. As his first love, Naoko, sinks deeper and deeper into mental despair, he is inexorably pushed to find new meanings and new love to survive.</description>
+  </book>
+  <book id="4">
+    <original_query>1984</original_query>
+    <title>1984</title>
+    <authors>George Orwell</authors>
+    <published_year>2014</published_year>
+    <isbn_10>1784043737</isbn_10>
+    <isbn_13>9781784043735</isbn_13>
+    <page_count>361</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=uyr8BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>George Orwell's dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century, making famous Big Brother, newspeak and Room 101. 'Who controls the past controls the future: who controls the present controls the past'</description>
+  </book>
+  <book id="5">
+    <original_query>The odyssey</original_query>
+    <title>The Odyssey</title>
+    <authors>Homer</authors>
+    <published_year>1997</published_year>
+    <isbn_10>0140268863</isbn_10>
+    <isbn_13>9780140268867</isbn_13>
+    <page_count/>
+    <categories>Poetry</categories>
+    <thumbnail>http://books.google.com/books/content?id=An2MEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>The great epic of Western literature, translated by the acclaimed classicist Robert Fagles A Penguin Classic Robert Fagles, winner of the PEN/Ralph Manheim Medal for Translation and a 1996 Academy Award in Literature from the American Academy of Arts and Letters, presents us with Homer's best-loved and most accessible poem in a stunning modern-verse translation. "Sing to me of the man, Muse, the man of twists and turns driven time and again off course, once he had plundered the hallowed heights of Troy." So begins Robert Fagles' magnificent translation of the Odyssey, which Jasper Griffin in the New York Times Book Review hails as "a distinguished achievement." If the Iliad is the world's greatest war epic, the Odyssey is literature's grandest evocation of an everyman's journey through life. Odysseus' reliance on his wit and wiliness for survival in his encounters with divine and natural forces during his ten-year voyage home to Ithaca after the Trojan War is at once a timeless human story and an individual test of moral endurance. In the myths and legends retold here, Fagles has captured the energy and poetry of Homer's original in a bold, contemporary idiom, and given us an Odyssey to read aloud, to savor, and to treasure for its sheer lyrical mastery. Renowned classicist Bernard Knox's superb introduction and textual commentary provide insightful background information for the general reader and scholar alike, intensifying the strength of Fagles's translation. This is an Odyssey to delight both the classicist and the general reader, to captivate a new generation of Homer's students. This Penguin Classics Deluxe Edition features French flaps and deckle-edged paper. For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.</description>
+  </book>
+  <book id="6">
+    <original_query>The alchemist</original_query>
+    <title>The Alchemist</title>
+    <authors>Paulo Coelho</authors>
+    <published_year>2015</published_year>
+    <isbn_10>0062416219</isbn_10>
+    <isbn_13>9780062416216</isbn_13>
+    <page_count>166</page_count>
+    <categories>Business &amp; Economics</categories>
+    <thumbnail>http://books.google.com/books/content?id=FzVjBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>“To realize one’s destiny is a person’s only obligation.”—from The Alchemist The Alchemist tells the story of Santiago, the young Andalusian shepherd who dreams of buried treasure in Egypt and embarks upon a challenging journey to find it. With all the simplicity and symbolic richness of a fable, Coelho’s novel is both a hunt for buried treasure and a spiritual quest, with a hero who overcomes trials along the way with the help of teachers who guide him. Paulo Coelho’s books have difficult—and valuable—lessons to impart, but much of their appeal comes from the way Coelho dramatizes these lessons. With exquisite simplicity, the author brings to these stories his own experience of confronting life’s most profound challenges, his broad knowledge of philosophy, psychology, and literature, and a deeply-felt humanity. Freshman Common Read: Erskine College, Montana State University at Bozeman, Immaculata University, Queensborough Community College</description>
+  </book>
+  <book id="7">
+    <original_query>by the river pedra i sat down and wept</original_query>
+    <title>By the River Piedra I Sat Down and Wept</title>
+    <authors>Paulo Coelho</authors>
+    <published_year>1997</published_year>
+    <isbn_10>0060977264</isbn_10>
+    <isbn_13>9780060977269</isbn_13>
+    <page_count>196</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=GR7mQc5R0SYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Pilar, a young scholar feeling hopeless and worn down by the endless cycle of her days, is contacted by a childhood friend who is now a charismatic spiritual leader.</description>
+  </book>
+  <book id="8">
+    <original_query>pride and prejudice</original_query>
+    <title>Pride and Prejudice</title>
+    <authors>Jane Austen</authors>
+    <published_year>1918</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>448</page_count>
+    <categories>Courtship</categories>
+    <thumbnail>http://books.google.com/books/content?id=s1gVAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Austen’s most celebrated novel tells the story of Elizabeth Bennet, a bright, lively young woman with four sisters, and a mother determined to marry them to wealthy men. At a party near the Bennets’ home in the English countryside, Elizabeth meets the wealthy, proud Fitzwilliam Darcy. Elizabeth initially finds Darcy haughty and intolerable, but circumstances continue to unite the pair. Mr. Darcy finds himself captivated by Elizabeth’s wit and candor, while her reservations about his character slowly vanish. The story is as much a social critique as it is a love story, and the prose crackles with Austen’s wry wit.</description>
+  </book>
+  <book id="9">
+    <original_query>wuthering heights</original_query>
+    <title>Wuthering Heights in Plain and Simple English (Includes Study Guide, Complete Unabridged Book, Historical Context, Biography And</title>
+    <authors>Emily Brontë</authors>
+    <published_year>2012</published_year>
+    <isbn_10>1621074560</isbn_10>
+    <isbn_13>9781621074564</isbn_13>
+    <page_count>614</page_count>
+    <categories>Reference</categories>
+    <thumbnail>http://books.google.com/books/content?id=S2Yvf-tWNdUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Emily Brontë’s “Wuthering Heights” is considered one of the greatest novels ever wrote. It also can be difficult to understand--it is loaded with themes, imagery, and symbols. If you need a little help understanding it, let BookCaps help with this study guide. Along with chapter-by-chapter summaries and analysis, this book features the full text of Brontë's classic novel is also included. BookCap Study Guides are not meant to be purchased as alternatives to reading the book.</description>
+  </book>
+  <book id="10">
+    <original_query>the potrait of dorian gray</original_query>
+    <title>The Picture of Dorian Gray</title>
+    <authors>Oscar Wilde</authors>
+    <published_year>1908</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>332</page_count>
+    <categories/>
+    <thumbnail>http://books.google.com/books/content?id=w9A98UIGNMAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description/>
+  </book>
+  <book id="11">
+    <original_query>the count of monte cristo</original_query>
+    <title>The Count of Monte Cristo</title>
+    <authors>Alexandre Dumas</authors>
+    <published_year>1997</published_year>
+    <isbn_10>1853267333</isbn_10>
+    <isbn_13>9781853267338</isbn_13>
+    <page_count>932</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=eXRRNzjlXrkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Sent to prison on a false accusation in 1815, Edmond Dantes escapes many years later and finds a treasure which he uses to exact his revenge.</description>
+  </book>
+  <book id="12">
+    <original_query>sherlock holmes</original_query>
+    <title>The Memoirs of Sherlock Holmes</title>
+    <authors>Arthur Conan Doyle</authors>
+    <published_year>1894</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>548</page_count>
+    <categories>Detective and mystery stories, English</categories>
+    <thumbnail>http://books.google.com/books/content?id=sAgOAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description/>
+  </book>
+  <book id="13">
+    <original_query>tom sawyer</original_query>
+    <title>The Adventures of Tom Sawyer</title>
+    <authors>Mark Twain</authors>
+    <published_year>2007</published_year>
+    <isbn_10>0192806823</isbn_10>
+    <isbn_13>9780192806826</isbn_13>
+    <page_count>247</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=8AXw9GY3DJgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>In this enduring and internationally popular novel, Mark Twain combines social satire and dime-novel sensation with a rhapsody on boyhood and on America's pre-industrial past. Tom Sawyer, resilient, enterprising, and vainglorious, has long been a defining figure in the American cultural imagination. - ;'Tom was a glittering hero once more - the pet of the old, and the envy of the young...There were some that believed he would be President yet, if he escaped hanging.' In this enduring and internationally popular novel, Mark ogaincombines social satire and dime-novel sensation with a rhapsody on boyhood and on America's pre-industrial past. Tom Sawyer is resilient, enterprising, and vainglorious. In a series of adventures along the banks of the Mississippi, he usually manages to come out on top. From petty triumphs over his friends and over his long-suffering Aunt Polly, to his intervention in a murder trial, Tom engages readers of all ages. He has long been a defining figure in the American cultural imagination. Alongside the charm and the excitement, Twain raises serious questions about community, race, and the past. Above all, the book invites discussion of the way in which childhood is invoked to counter the uncomfortable truths of the adult world. -</description>
+  </book>
+  <book id="14">
+    <original_query>kafka on the shore</original_query>
+    <title>Kafka on the Shore</title>
+    <authors>Haruki Murakami</authors>
+    <published_year>2005</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>456</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=rp-BAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Sample Text</description>
+  </book>
+  <book id="15">
+    <original_query>crime and punishment</original_query>
+    <title>Crime and Punishment</title>
+    <authors>Fyodor Dostoyevsky</authors>
+    <published_year>2017</published_year>
+    <isbn_10>0198709706</isbn_10>
+    <isbn_13>9780198709701</isbn_13>
+    <page_count>545</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=hlExDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Crime and Punishment is the story of a murder committed on principle, of a killer who wishes to set himself outside and above society. It is marked by Dostoevsky's own harrowing experience, and yet there are moments of wild humour. This authoritative translation comes with a challenging new introduction and helpful annotation.</description>
+  </book>
+  <book id="16">
+    <original_query>half girlfriend</original_query>
+    <title>हाफ गर्लफ्रेंड</title>
+    <authors>चेतन भगत</authors>
+    <published_year>2015</published_year>
+    <isbn_10>8129136767</isbn_10>
+    <isbn_13>9788129136763</isbn_13>
+    <page_count>292</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=D-xrrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Novel based on man woman relationship.</description>
+  </book>
+  <book id="17">
+    <original_query>girl in room 105</original_query>
+    <title>The Girl in Room 105</title>
+    <authors>Chetan Bhagat</authors>
+    <published_year>2018</published_year>
+    <isbn_10>1542040469</isbn_10>
+    <isbn_13>9781542040464</isbn_13>
+    <page_count/>
+    <categories>India</categories>
+    <thumbnail>http://books.google.com/books/content?id=GHt_uwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>"Zara and I broke up four years ago. She moved on in life. I didn’t. I drank every night to forget her. I called, messaged, and stalked her on social media. She just ignored me. However, that night, on the eve of her birthday, Zara messaged me. She called me over, like old times, to her hostel room 105. I shouldn’t have gone, but I did... and my life changed forever. This is not a love story. It is an unlove story."--page 4 of cover.</description>
+  </book>
+  <book id="18">
+    <original_query>regretting you</original_query>
+    <title>Regretting You</title>
+    <authors>Colleen Hoover</authors>
+    <published_year>2019</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>375</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=R0JbEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Save 50% on 1 when you buy 2 Shop items Soon to be a major motion picture starring Allison Williams and Dave Franco. From #1 New York Times bestselling author of It Ends with Us comes a novel about family, first love, grief, and betrayal that will touch the hearts of both mothers and daughters. Morgan Grant and her sixteen-year-old daughter, Clara, would like nothing more than to be nothing alike. Morgan is determined to prevent her daughter from making the same mistakes she did. By getting pregnant and married way too young, Morgan put her own dreams on hold. Clara doesn’t want to follow in her mother’s footsteps. Her predictable mother doesn’t have a spontaneous bone in her body. With warring personalities and conflicting goals, Morgan and Clara find it increasingly difficult to coexist. The only person who can bring peace to the household is Chris―Morgan’s husband, Clara’s father, and the family anchor. But that peace is shattered when Chris is involved in a tragic and questionable accident. The heartbreaking and long-lasting consequences will reach far beyond just Morgan and Clara. While struggling to rebuild everything that crashed around them, Morgan finds comfort in the last person she expects to, and Clara turns to the one boy she’s been forbidden to see. With each passing day, new secrets, resentment, and misunderstandings make mother and daughter fall further apart. So far apart, it might be impossible for them to ever fall back together.</description>
+  </book>
+  <book id="19">
+    <original_query>the idiot</original_query>
+    <title>The Idiot</title>
+    <authors>Fyodor Dostoyevsky</authors>
+    <published_year>1998</published_year>
+    <isbn_10>0192834118</isbn_10>
+    <isbn_13>9780192834119</isbn_13>
+    <page_count>692</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=5fyuj9x9UZIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Revealing Dostoevsky's acute artistic sense and penetrating psychological insight, this new translation is meticulously faithful to the original.</description>
+  </book>
+  <book id="20">
+    <original_query>the stranger</original_query>
+    <title>The Stranger</title>
+    <authors>Albert Camus</authors>
+    <published_year>1954</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>172</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=8Wm2AAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>The subsequent imprisonment after a man commits a murder leads only to complete alienation from life existence.</description>
+  </book>
+  <book id="21">
+    <original_query>it ends with us</original_query>
+    <title>It Ends with Us</title>
+    <authors>Colleen Hoover</authors>
+    <published_year>2024</published_year>
+    <isbn_10>1668055961</isbn_10>
+    <isbn_13>9781668055960</isbn_13>
+    <page_count>384</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=UnIQEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Lily hasn't always had it easy, but that's never stopped her from working hard for the life she wants. She's come a long way from the small town in Maine where she grew up--she graduated from college, moved to Boston, and started her own business. So when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily's life suddenly seems almost too good to be true. Ryle is assertive, stubborn, maybe even a little arrogant. He's also sensitive, brilliant, and has a total soft spot for Lily, but Ryle's complete aversion to relationships is disturbing. As questions about her new relationship overwhelm her, so do thoughts of Atlas Corrigan--her first love and a link to the past she left behind. He was her kindred spirit, her protector. When Atlas suddenly reappears, everything Lily has built with Ryle is threatened. With this bold and deeply personal novel, Colleen Hoover delivers a heart-wrenching story in this unforgettable tale of love that comes at the ultimate price.</description>
+  </book>
+  <book id="22">
+    <original_query>it starts with us</original_query>
+    <title>It Starts with Us</title>
+    <authors>Colleen Hoover</authors>
+    <published_year>2022</published_year>
+    <isbn_10>1668001225</isbn_10>
+    <isbn_13>9781668001226</isbn_13>
+    <page_count>336</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=CMeVEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>PREVIOUS BOOK IN SERIES: IT ENDS WITH US, ISBN 9781501110368. Before 'It Ends with Us', it started with Atlas. Colleen Hoover tells fan favourite Atlass side of the story and shares what comes next in this long-anticipated sequel to the glorious and touching (USA TODAY) 'It Ends With Us'.</description>
+  </book>
+  <book id="23">
+    <original_query>hail mary</original_query>
+    <title>Project Hail Mary (Movie Tie-In)</title>
+    <authors>Andy Weir</authors>
+    <published_year>2025</published_year>
+    <isbn_10/>
+    <isbn_13>9798217299461</isbn_13>
+    <page_count>497</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=CnSJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>THE #1 NEW YORK TIMES BESTSELLER FROM THE AUTHOR OF THE MARTIAN • Soon to be a major motion picture starring Ryan Gosling, directed by Phil Lord and Christopher Miller, with a screenplay by Drew Goddard A lone astronaut must save the earth from disaster in this “propulsive” (Entertainment Weekly), cinematic thriller full of suspense, humor, and fascinating science. HUGO AWARD FINALIST • ONE OF THE YEAR’S BEST BOOKS: Bill Gates, GatesNotes, New York Public Library, Parade, Newsweek, Polygon, Shelf Awareness, She Reads, Kirkus Reviews, Library Journal • New York Times Readers Pick: 100 Best Books of the 21st Century “An epic story of redemption, discovery and cool speculative sci-fi.”—USA Today “If you loved The Martian, you’ll go crazy for Weir’s latest.”—The Washington Post Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it. All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company. His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species. And with the clock ticking down and the nearest human being light-years away, he’s got to do it all alone. Or does he? An irresistible interstellar adventure as only Andy Weir could deliver, Project Hail Mary is a tale of discovery, speculation, and survival to rival The Martian—while taking us to places it never dreamed of going.</description>
+  </book>
+  <book id="24">
+    <original_query>i am thinking of ending things</original_query>
+    <title>I'm Thinking of Ending Things</title>
+    <authors>Iain Reid</authors>
+    <published_year>2017</published_year>
+    <isbn_10>1501126946</isbn_10>
+    <isbn_13>9781501126949</isbn_13>
+    <page_count>240</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=9WBYDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Includes Reader's Guide with discussion questions.</description>
+  </book>
+  <book id="25">
+    <original_query>no longer human</original_query>
+    <title>No Longer Human</title>
+    <authors>Osamu Dazai</authors>
+    <published_year>2012</published_year>
+    <isbn_10>0811220079</isbn_10>
+    <isbn_13>9780811220071</isbn_13>
+    <page_count>196</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=9jhi2bY3GkAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>The poignant and fascinating story of a young man who is caught between the breakup of the traditions of a northern Japanese aristocratic family and the impact of Western ideas. Mine has been a life of much shame. I can’t even guess myself what it must be to live the life of a human being. Portraying himself as a failure, the protagonist of Osamu Dazai’s No Longer Human narrates a seemingly normal life even while he feels himself incapable of understanding human beings. His attempts to reconcile himself to the world around him begin in early childhood, continue through high school, where he becomes a “clown” to mask his alienation, and eventually lead to a failed suicide attempt as an adult. Without sentimentality, he records the casual cruelties of life and its fleeting moments of human connection and tenderness. Still one of the ten bestselling books in Japan, No Longer Human is an important and unforgettable modern classic: “The struggle of the individual to fit into a normalizing society remains just as relevant today as it was at the time of writing.” (The Japan Times)</description>
+  </book>
+  <book id="26">
+    <original_query>sputnik sweetheart</original_query>
+    <title>Sputnik Sweetheart</title>
+    <authors>Haruki Murakami</authors>
+    <published_year>2001</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>232</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=o7CBAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>A male college student falls in love with a woman who, over the years, guides him in her travels, and then disappears without trace. Assisting in the search, he goes home to Japan, where he finally achieves a true understanding of his beloved.</description>
+  </book>
+  <book id="27">
+    <original_query>the bone clocks</original_query>
+    <title>The Bone Clocks</title>
+    <authors>David Mitchell</authors>
+    <published_year>2014</published_year>
+    <isbn_10>1848945043</isbn_10>
+    <isbn_13>9781848945043</isbn_13>
+    <page_count>601</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=McObAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>'ONE OF THE MOST BRILLIANTLY INVENTIVE WRITERS OF THIS, OR ANY, COUNTRY' INDEPENDENT Winner of the World Fantasy Award and longlisted for the Booker and Folio Prizes 'A triumph' GUARDIAN 'Fantastical' OBSERVER 'Epic' EVENING STANDARD 'Mind-spinning' INDEPENDENT ON SUNDAY 'Dazzling' NEW YORK TIMES The internationally bestselling novel from the author of Cloud Atlas, at once the kaleidoscopic story of an unusual woman's life, a metaphysical thriller and a profound meditation on mortality and survival Run away, one drowsy summer's afternoon, with Holly Sykes: wayward teenager, broken-hearted rebel and unwitting pawn in a titanic, hidden conflict. Over six decades, the consequences of a moment's impulse unfold, drawing an ordinary woman into a world far beyond her imagining. And as life in the near future turns perilous, the pledge she made to a stranger may become the key to her family's survival . . . PRAISE FOR DAVID MITCHELL 'A thrilling and gifted writer' FINANCIAL TIMES 'Dizzyingly, dazzlingly good' DAILY MAIL 'Mitchell is, clearly, a genius' NEW YORK TIMES BOOK REVIEW 'An author of extraordinary ambition and skill' INDEPENDENT ON SUNDAY 'A superb storyteller' THE NEW YORKER</description>
+  </book>
+  <book id="28">
+    <original_query>memory police</original_query>
+    <title>The Memory Police</title>
+    <authors>Yoko Ogawa</authors>
+    <published_year>2020</published_year>
+    <isbn_10>1101911816</isbn_10>
+    <isbn_13>9781101911815</isbn_13>
+    <page_count/>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=SmCPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Finalist for the International Booker Prize and the National Book Award A haunting Orwellian novel about the terrors of state surveillance, from the acclaimed author of The Housekeeper and the Professor. On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses. . . . Most of the inhabitants are oblivious to these changes, while those few able to recall the lost objects live in fear of the draconian Memory Police, who are committed to ensuring that what has disappeared remains forgotten. When a young writer discovers that her editor is in danger, she concocts a plan to hide him beneath her f loorboards, and together they cling to her writing as the last way of preserving the past. Powerful and provocative, The Memory Police is a stunning novel about the trauma of loss. ONE OF THE BEST BOOKS OF THE YEAR THE NEW YORK TIMES * THE WASHINGTON POST * TIME * CHICAGO TRIBUNE * THE GUARDIAN * ESQUIRE * THE DALLAS MORNING NEWS * FINANCIAL TIMES * LIBRARY JOURNAL * THE A.V. CLUB * KIRKUS REVIEWS * LITERARY HUB American Book Award winner</description>
+  </book>
+  <book id="29">
+    <original_query>ikigai</original_query>
+    <title>Ikigai</title>
+    <authors>Héctor García, Francesc Miralles</authors>
+    <published_year>2017</published_year>
+    <isbn_10>1473539609</isbn_10>
+    <isbn_13>9781473539600</isbn_13>
+    <page_count>160</page_count>
+    <categories>Self-Help</categories>
+    <thumbnail>http://books.google.com/books/content?id=MDksDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>AVAILABLE NOW: The Four-Way Path, a guide to how Indian spirituality holds the key to a life of happiness and purpose - the new book from the bestselling authors of Ikigai. THE MULTI-MILLION-COPY BESTSELLER Find purpose, meaning and joy in your work and life We all have an ikigai. It's the Japanese word for 'a reason to live' or 'a reason to jump out of bed in the morning'. The place where your needs, ambitions, skills and satisfaction meet. A place of balance. This book will help you unlock what your ikigai is and equip you to change your life. There is a passion inside you - a unique talent that gives you purpose and makes you the perfect candidate for something. All you have to do is discover and live it. Do that, and you can make every single day of your life joyful and meaningful. 'A refreshingly simple recipe for happiness' Stylist 'Ikigai gently unlocks simple secrets we can all use to live long, meaningful, happy lives' Neil Pasricha, bestselling author of The Happiness Equation</description>
+  </book>
+  <book id="30">
+    <original_query>the theory of everything</original_query>
+    <title>Brief History of Time, A (Kindle)</title>
+    <authors>Stephen W. Hawking</authors>
+    <published_year>2009</published_year>
+    <isbn_10>1409092399</isbn_10>
+    <isbn_13>9781409092391</isbn_13>
+    <page_count/>
+    <categories>Philosophy</categories>
+    <thumbnail>http://books.google.com/books/content?id=AHSiMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description/>
+  </book>
+  <book id="31">
+    <original_query>the blue umbrella</original_query>
+    <title>The Blue Umbrella</title>
+    <authors>Ruskin Bond</authors>
+    <published_year>1974</published_year>
+    <isbn_10>0241023424</isbn_10>
+    <isbn_13>9780241023426</isbn_13>
+    <page_count/>
+    <categories>Children's stories</categories>
+    <thumbnail/>
+    <description/>
+  </book>
+  <book id="32">
+    <original_query>subtle art of not giving a fuck</original_query>
+    <title>The Subtle Art of Not Giving a F*ck / Everything Is F*cked Box Set</title>
+    <authors>Mark Manson</authors>
+    <published_year>2024</published_year>
+    <isbn_10>0063430940</isbn_10>
+    <isbn_13>9780063430945</isbn_13>
+    <page_count/>
+    <categories/>
+    <thumbnail>http://books.google.com/books/content?id=W8bJ0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description/>
+  </book>
+  <book id="33">
+    <original_query>all harry potter</original_query>
+    <title>Harry Potter and the Sorcerer's Stone</title>
+    <authors>J. K. Rowling</authors>
+    <published_year>2015</published_year>
+    <isbn_10>0545919665</isbn_10>
+    <isbn_13>9780545919661</isbn_13>
+    <page_count/>
+    <categories>JUVENILE FICTION</categories>
+    <thumbnail>http://books.google.com/books/content?id=CPJJAQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Witchcraft and Wizardry.</description>
+  </book>
+  <book id="34">
+    <original_query>all percy jackson</original_query>
+    <title>Percy Jackson: The Complete Series (Books 1, 2, 3, 4, 5)</title>
+    <authors>Rick Riordan</authors>
+    <published_year>2013</published_year>
+    <isbn_10>0141352019</isbn_10>
+    <isbn_13>9780141352015</isbn_13>
+    <page_count>1380</page_count>
+    <categories>Juvenile Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=X58EqptgJV8C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>All five novels in the bestselling, blockbuster Percy Jackson series, collected in one stunning digital edition. I was just a normal kid, going to school, playing basketball, skateboarding. The usual. Until I accidentally vaporized my maths teacher. 'Look, I didn't want to be a Half-Blood. I never asked to be the son of a Greek God.' Percy Jackson: The Complete Series includes all five novels in the action-packed, electrifying series from Rick Riordan: The Lightning Thief, The Sea of Monsters, The Titan's Curse, The Battle of the Labyrinth, and The Last Olympian. Now I spend my time battling monsters and generally trying to stay alive. Angry Gods. Cannibal Giants. Ancient Labyrinths. Untold Evils. It's not easy being a demigod. Rick Riordan has now sold an incredible 55 million copies of his books worldwide The Percy Jackson series has sold over 1.25 million copies in the UK alone</description>
+  </book>
+  <book id="35">
+    <original_query>the 5 am club</original_query>
+    <title>The 5 AM Club: Own Your Morning. Elevate Your Life.</title>
+    <authors>Robin Sharma</authors>
+    <published_year>2018</published_year>
+    <isbn_10>0008312850</isbn_10>
+    <isbn_13>9780008312855</isbn_13>
+    <page_count>248</page_count>
+    <categories>Health &amp; Fitness</categories>
+    <thumbnail>http://books.google.com/books/content?id=7W9bDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Legendary leadership and elite performance expert Robin Sharma introduced The 5am Club concept over twenty years ago, based on a revolutionary morning routine that has helped his clients maximize their productivity, activate their best health and bulletproof their serenity in this age of overwhelming complexity.</description>
+  </book>
+  <book id="36">
+    <original_query>rich dad poor dad</original_query>
+    <title>Rich Dad Poor Dad - What the Rich Teach Their Kids About Money</title>
+    <authors>Robert T. Kiyosaki</authors>
+    <published_year>2021</published_year>
+    <isbn_10>0359727891</isbn_10>
+    <isbn_13>9780359727896</isbn_13>
+    <page_count>196</page_count>
+    <categories>Business &amp; Economics</categories>
+    <thumbnail>http://books.google.com/books/content?id=kRqeDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>In Rich Dad Poor Dad, the #1 Personal Finance book of all time, Robert Kiyosaki shares the story of his two dad: his real father and his rich dad. One was educated and an employee all his life, the other's education was street smarts" over traditional classroom education and he took the path of entrepreneurship?a road that led him to become one of the wealthiest men in Hawaii. Robert's poor dad struggled financially all his life. and these two dads had varying points of view of money and investing.Rich Dad Poor Dad will?? explode the myth that you need to earn a high income to become rich? challenge the belief that your house is an asset? show parents why they can't rely on the school system to teach their kids about money? define, once and for all, an asset and a liability? explain the difference between good debt and bad debt? teach you to see the world of money from different perspectives? discuss the shift in mindset that can put you on the road to financial freedom</description>
+  </book>
+  <book id="37">
+    <original_query>all diary of wimpy kid</original_query>
+    <title>Diary of a Wimpy Kid</title>
+    <authors>Jeff Kinney</authors>
+    <published_year>2007</published_year>
+    <isbn_10>0141324902</isbn_10>
+    <isbn_13>9780141324906</isbn_13>
+    <page_count>228</page_count>
+    <categories>Juvenile Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=Ln4HejRlMXYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Greg Heffley finds himself thrust into a new year and a new school where undersize weaklings share the corridors with kids who are taller, meaner and already shaving. Greg is happy to have his sidekick, Rowley, along for the ride. When Rowley's star starts to rise, Greg tries to use his best friend's popularity to his own advantage.</description>
+  </book>
+  <book id="38">
+    <original_query>48 laws of power</original_query>
+    <title>The 48 Laws Of Power</title>
+    <authors>Robert Greene</authors>
+    <published_year>2010</published_year>
+    <isbn_10>1847651348</isbn_10>
+    <isbn_13>9781847651341</isbn_13>
+    <page_count>478</page_count>
+    <categories>Body, Mind &amp; Spirit</categories>
+    <thumbnail>http://books.google.com/books/content?id=P_zMW3EHnTEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>THE MILLION COPY INTERNATIONAL BESTSELLER 'If power is your ultimate goal, this is the book you need' The Times Amoral, cunning, ruthless, and instructive, this piercing work distils three thousand years of the history of power into forty-eight well-explicated laws. As attention-grabbing in its design as it is in its content, this bold volume outlines the laws of power in their unvarnished essence, synthesizing the philosophies of Machiavelli, Sun-tzu, Carl von Clausewitz, and other great thinkers. Some laws require prudence ("Law 1: Never Outshine the Master"), some stealth ("Law 3: Conceal Your Intentions"), and some the total absence of mercy ("Law 15: Crush Your Enemy Totally"), but like it or not, all have applications in real-life situations. Illustrated through the tactics of Queen Elizabeth I, Henry Kissenger, P T Barnum, and other famous figures who have wielded - or been victimised by - power, these laws will fascinate any reader interested in gaining, observing or defending against ultimate control.</description>
+  </book>
+  <book id="39">
+    <original_query>human nature</original_query>
+    <title>The Laws of Human Nature</title>
+    <authors>Robert Greene</authors>
+    <published_year/>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>73</page_count>
+    <categories>Self-Help</categories>
+    <thumbnail>http://books.google.com/books/content?id=iAOUEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>SUMMARY: This book is If you’ve ever wondered about human behavior, wonder no more. In The Laws of Human Nature, Greene takes a look at 18 laws that reveal who we are and why we do the things we do. Humans are complex beings, but Greene uses these laws to strip human nature down to its bare bones. Every law that he presents is supported by a real-life historical account, with an insightful twist to drive the point home. As you read the book, don’t be surprised if you get the feeling that everyone you know, including yourself, is described in the book! DISCLAIMER: This is an UNOFFICIAL summary and not the original book. It is designed to record all the key points of the original book.</description>
+  </book>
+  <book id="40">
+    <original_query>it</original_query>
+    <title>It Looks At You</title>
+    <authors>Wheeler Winston Dixon</authors>
+    <published_year>1994</published_year>
+    <isbn_10>1438401256</isbn_10>
+    <isbn_13>9781438401256</isbn_13>
+    <page_count>262</page_count>
+    <categories>Social Science</categories>
+    <thumbnail>http://books.google.com/books/content?id=38wkFi_ouiwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>This book is a study of one of the most insidious and pervasive phenomena in the study and reception of cinema: the "returned gaze" from the screen, in which the audience is actually surveilled by the film being projected on the screen. Rather than the usual process of watching a film, in those films which return the gaze of the viewer, the film looks at us, confronting our voyeur's embrace of the spectacle it presents. The book cites examples as diverse as Andy Warhol's Vinyl, Laurel and Hardy two-reel comedies, the films of Jean-Marie Straub, Jean-Luc Godard, Roberto Rossellini, and Wesley E. Barry's Creation of the Humanoids. It also discusses the history of the returned gaze in video, pornography, surveillance systems, and the related plastic arts.</description>
+  </book>
+  <book id="41">
+    <original_query>carrie</original_query>
+    <title>Carrie</title>
+    <authors>Stephen King</authors>
+    <published_year>2000</published_year>
+    <isbn_10>0671039733</isbn_10>
+    <isbn_13>9780671039738</isbn_13>
+    <page_count>212</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=gm1_ZjzjEboC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Make a date with terror -- and live the nightmare that is ...</description>
+  </book>
+  <book id="42">
+    <original_query>who will cry when you die</original_query>
+    <title>Who Will Cry When You Die?</title>
+    <authors>Robin Sharma</authors>
+    <published_year>2010</published_year>
+    <isbn_10>1443402869</isbn_10>
+    <isbn_13>9781443402866</isbn_13>
+    <page_count>211</page_count>
+    <categories>Self-Help</categories>
+    <thumbnail>http://books.google.com/books/content?id=1QmDrTbOmd0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>“When you were born, you cried while the world rejoiced. Live your life in such a way that when you die, the world cries while you rejoice.” — Ancient Sanskrit saying Does the gem of wisdom quoted above strike a chord deep within you? Do you feel that life is slipping by so fast that you just might never get the chance to live with the meaning, happiness and joy you know you deserve? If so, then this very special book by leadership guru Robin S. Sharma, the author whose Monk Who Sold His Ferrari series has transformed the lives of thousands, will be the guiding light that leads you to a brilliant new way of living. In this easy-to-read yet wisdom-rich manual, Robin S. Sharma offers 101 simple solutions to life’s most complex problems, ranging from a little-known method for beating stress and worry to a powerful way to enjoy the journey while you create a legacy that lasts. Other lessons include “Honor Your Past,” “Start Your Day Well,” “See Troubles as Blessings” and “Discover Your Calling.” If you are finally ready to move beyond a life spent chasing success to one of deep significance, this is the ideal book for you.</description>
+  </book>
+  <book id="43">
+    <original_query>the monk who sold his ferrari</original_query>
+    <title>The Monk Who Sold His Ferrari (Hard Cover)</title>
+    <authors>Robin Shilp Sharma</authors>
+    <published_year>2009</published_year>
+    <isbn_10>8179929663</isbn_10>
+    <isbn_13>9788179929667</isbn_13>
+    <page_count/>
+    <categories>Conduct of life</categories>
+    <thumbnail>http://books.google.com/books/content?id=o2poPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>10th ANNIVERSARY EDITIONThe # 1 International BestsellerWisdom to Create a Life of Passion, Purpose, and PeaceThis inspiring tale provides a step-by-step approach to living with greater courage, balance, abundance, and joy. A wonderfully crafted fable, The Monk Who Sold His Ferrari tells the extraordinary story of Julian Mantle, a lawyer forced to confront the spiritual crisis of his out-of-balance life. On a life-changing odyssey to an ancient culture, he discovers powerful, wise, and practical lessons that teach us to: Develop joyful thoughts Follow our life s mission and calling Cultivate self-discipline and act courageously Value time as our most important commodity Nourish our relationships, and live fully, one day at a timeA Fable About Fulfilling Your Dreams And Reaching Your Destiny</description>
+  </book>
+  <book id="44">
+    <original_query>twisted series</original_query>
+    <title>Twisted Perfection</title>
+    <authors>Abbi Glines</authors>
+    <published_year>2013</published_year>
+    <isbn_10>1471120376</isbn_10>
+    <isbn_13>9781471120374</isbn_13>
+    <page_count>235</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=UipI17ZrjHcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>From the author of the red-hot Vincent Boys, Sea Breezeand Too Farnovels, comes another steamy romance... Can you handle bad-boy Woods? My future was about to be completely thrown off track because Della Sloane was under my skin, and I had to have her. I couldn't ignore it anymore. . . . I'd gotten close enough to her to see deeper. Della Sloane is not your average girl. Yearning to break free of her dark and sheltered past, Della plans a solo road trip to experience real life on her own terms. But the trip is nearly cut short in the little beach town of Rosemary when she realizes she can't even pump her own gas-until Woods Kerrington shows up, more than willing to help out a pretty girl in need. Woods's family wants him to settle down with a wealthy woman in pearls, but he can't resist this carefree girl in cutoffs passing through town. A one-night stand should have been enough, but months later, Woods can't get the irresistible Della out of his head. When a twist of fate brings Della back to Woods, all signs point to trouble if they don't keep their distance. Neither is truly free, and a relationship could destroy both of them. With their hearts on the line, Della thinks the safest bet is to walk away. But Woods isn't about to let that happen…</description>
+  </book>
+  <book id="45">
+    <original_query>verity</original_query>
+    <title>Verity</title>
+    <authors>Colleen Hoover</authors>
+    <published_year>2021</published_year>
+    <isbn_10>989564826X</isbn_10>
+    <isbn_13>9789895648269</isbn_13>
+    <page_count>269</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=TJZWEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Mais um romance de sucesso. Verity é perturbador, arrepiante e inesperado. Uma experiência inesquecível. Lowen Ashleigh é uma escritora que se debate com grandes dificuldades financeiras, até que aceita uma oferta de trabalho irrecusável: terminar os três últimos volumes da série de sucesso de Verity Crawford, uma autora de renome que ficou incapacitada depois de um terrível acidente. Para poder entrar na cabeça de Verity e estudar as anotações e ideias reunidas ao longo de anos de trabalho, Lowen aceita o convite de Jeremy Crawford, marido da autora, e muda-se temporariamente para a casa deles. Mas o que ela não esperava encontrar no caótico escritório de Verity era a autobiografia inacabada da autora. Ao lê-la, percebe que esta não se destinava a ser partilhada com ninguém. São páginas e páginas de confissões arrepiantes, incluindo as memórias de Verity relativas ao dia da morte da filha. Lowen decide ocultar de Jeremy a existência do manuscrito, sabendo que o seu conteúdo destroçaria aquele pai, já em tão grande sofrimento. Mas, à medida que os sentimentos de Lowen por Jeremy se intensificam, ela apercebe-se de que talvez seja melhor ele ler as palavras escritas por Verity. Afinal de contas, por mais dedicado que Jeremy seja à sua mulher doente, uma verdade tão horrenda faria com que fosse impossível ele continuar a amá-la. Os elogios da crítica: «Aviso: Verity não vai derreter-lhe o coração... Vai incendiar-lhe a alma.» - Kindle Crack Book Reviews «Isto não é um livro, é uma experiência visceral!» - B. B. Easton, autora bestseller</description>
+  </book>
+  <book id="46">
+    <original_query>great gatsby</original_query>
+    <title>The Great Gatsby</title>
+    <authors>F. Scott Fitzgerald</authors>
+    <published_year>2003</published_year>
+    <isbn_10>074324639X</isbn_10>
+    <isbn_13>9780743246392</isbn_13>
+    <page_count>196</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=iXn5U2IzVH0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>The only edition of the beloved classic that is authorized by Fitzgerald’s family and from his lifelong publisher. This edition is the enduring original text, updated with the author’s own revisions, a foreword by his granddaughter, and with a new introduction by National Book Award winner Jesmyn Ward. The Great Gatsby, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. First published by Scribner in 1925, this quintessential novel of the Jazz Age has been acclaimed by generations of readers. The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan is an exquisitely crafted tale of America in the 1920s.</description>
+  </book>
+  <book id="47">
+    <original_query>to kill a mockingbird</original_query>
+    <title>To Kill a Mockingbird</title>
+    <authors>Harper Lee</authors>
+    <published_year>1970</published_year>
+    <isbn_10>0871299208</isbn_10>
+    <isbn_13>9780871299208</isbn_13>
+    <page_count>100</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=0NEbHGREK7cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Harper Lee's classic novel of a lawyer in the Deep South defending a black man charged with the rape of a white girl. One of the best-loved stories of all time, To Kill a Mockingbird has earned many distinctions since its original publication in 1960. It won the Pulitzer Prize, has been translated into more than forty languages, sold more than thirty million copies worldwide, and been made into an enormously popular movie. Most recently, librarians across the country gave the book the highest of honors by voting it the best novel of the twentieth century.</description>
+  </book>
+  <book id="48">
+    <original_query>lord of the rings</original_query>
+    <title>The Lord of the Rings</title>
+    <authors>John Ronald Reuel Tolkien</authors>
+    <published_year>2004</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>1200</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=GuLZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>In time for the golden anniversary of the arrival of part one of Tolkien's epic masterpiece on these shore comes a spectacular new edition of "The Lord of the Rings." The text is fully correctedQunder the supervision of Christopher TolkienQto meet the author's exacting wishes, and includes two large-format fold-out maps, a ribbon placemarker, and exceptionally elegant packaging. 0-618-51765-0$100.00 / Houghton Mifflin</description>
+  </book>
+  <book id="49">
+    <original_query>moby dick</original_query>
+    <title>Moby Dick</title>
+    <authors>Herman Melville</authors>
+    <published_year>2023</published_year>
+    <isbn_10/>
+    <isbn_13>9791041802609</isbn_13>
+    <page_count>804</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=J4fPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>“Call me Ishmael” says Moby Dick’s protagonist, and with this famous first line launches one of the acclaimed great American novels. Part adventure story, part quest for vengeance, part biological textbook and part whaling manual, Moby Dick was first published in 1851. The story follows Ishmael as he abandons his humdrum life on shore for an adventure on the waves. Finding the whaler Pequod at harbour in Nantucket, he signs up for a three year term without meeting the Captain of the ship, a mysterious figure called Ahab. It is only well into the voyage that Ahab’s thirst for vengeance against the eponymous white whale Moby Dick—and the consequences—become clear. The novel is semi-autobiographical: Herman Melville had had his own experience of whaling, having spent a year and a half aboard a whaling ship and further years travelling the world in the early 1840s. Herman used the knowledge gained from his experiences and wide reading on the subject to furnish Moby Dick with an almost encyclopaedic quality at times. The literary style varies widely, veering from soliloquies and staged scenes to dream sequences to comprehensive lists of ships’ provisions, but everything serves to further detail the world that’s being painted. Presented here is the New York edition, which was published later than the London edition and reverted numerous changes the original publishers had made, as well as including the initially omitted epilogue.</description>
+  </book>
+  <book id="50">
+    <original_query>great expectations</original_query>
+    <title>A Great Expectations in Plain and Simple English (Includes Study Guide, Complete Unabridged Book, Historical Context, Biography</title>
+    <authors>Charles Dickens</authors>
+    <published_year>2012</published_year>
+    <isbn_10>1621073513</isbn_10>
+    <isbn_13>9781621073512</isbn_13>
+    <page_count>930</page_count>
+    <categories>Reference</categories>
+    <thumbnail>http://books.google.com/books/content?id=FrvzlWm8x4kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Great Expectations is epic! Hundreds of pages, dozens of characters and settings--it's easy to lose track of things. Let BookCaps help with this comprehensive annotated study guide that is complete with character profiles (with pronunciations for names harder to pronounce), chapter summaries, analysis of themes, historical context, and much more! This annotated edition includes the original book with a comprehensive study guide and biography about the life and times of Charles Dickens. We all need refreshers every now and then. Whether you are a student trying to cram for that big final, or someone just trying to understand a book more, BookCaps can help. We are a small, but growing company, and are adding titles every month.</description>
+  </book>
+  <book id="51">
+    <original_query>white nights</original_query>
+    <title>White Nights and Other Stories</title>
+    <authors>Fyodor Dostoyevsky</authors>
+    <published_year>2012</published_year>
+    <isbn_10>0486114139</isbn_10>
+    <isbn_13>9780486114132</isbn_13>
+    <page_count>259</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=dS74NsOreasC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>A collection of compelling tales, steeped in Dostoyevsky's characteristic themes of spiritual and psychological conflict, evokes life in Czarist Russia. Includes "The Dream of a Ridiculous Man," "An Honest Thief," "Bobok," and 7 more.</description>
+  </book>
+  <book id="52">
+    <original_query>salvage</original_query>
+    <title>Brice on Maritime Law of Salvage</title>
+    <authors>Geoffrey Brice</authors>
+    <published_year>2011</published_year>
+    <isbn_10>0414045793</isbn_10>
+    <isbn_13>9780414045798</isbn_13>
+    <page_count>1079</page_count>
+    <categories>Law</categories>
+    <thumbnail>http://books.google.com/books/content?id=lAOodMtgXPcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>Providing coverage of the latest developments in all aspects of the law of torts, this First Supplement brings the 20th Edition of Clerk &amp; Lindsell on Torts fully up to date. The Supplement discusses recent case law, legislation and issues affecting the practice and development of tort law.</description>
+  </book>
+  <book id="53">
+    <original_query>mona's eyes</original_query>
+    <title>Mona's Eyes</title>
+    <authors>Thomas Schlesser</authors>
+    <published_year>2025</published_year>
+    <isbn_10/>
+    <isbn_13>9798889661559</isbn_13>
+    <page_count/>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=OJZo0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>THE SENSATIONAL #1 INTERNATIONAL BESTSELLER THAT HAS TAKEN THE WORLD BY STORM "Vibrant debut ... Schlesser seamlessly interweaves the art lessons with Mona's story ... Readers of Jostein Gaarder's Sophie's World will love this." --Publishers Weekly Ten-year-old Mona and her beloved grandfather have only fifty-two Wednesdays to visit fifty-two works of art and commit to memory "all that is beautiful in the world" before Mona loses her sight forever. While the doctors can find no explanation for Mona's brief episode of blindness, they agree that the threat of permanent vision loss cannot be ruled out. The girl's grandfather, Henry, may not be able to stop his granddaughter from losing her sight, but he can fill the encroaching darkness with beauty. Every Wednesday for a year, the pair abscond together and visit a single masterpiece in one of Paris's renowned museums. From Botticelli to Basquiat, Mona learns how each artist's work shaped the world around them. In turn, the young girl's world is changed forever by the power of their art. Under the kind and careful tutelage of her grandfather, Mona learns the true meaning of generosity, melancholy, love, loss, and revolution. Her perspective will never be the same -- nor will the reader's. Mona's Eyes is a heartfelt, enlightening journey across five centuries of Western art history. With the emotional impact of The Elegance of the Hedgehog and the readability of The Little Paris Bookshop, Thomas Schlesser's sensational debut novel is at once a moving book about the beauty of life and a deeply touching story about the special bond between a girl and her grandfather. Discover all 52 masterpieces inside the fold-out dustjacket.</description>
+  </book>
+  <book id="54">
+    <original_query>crying in H-Mart</original_query>
+    <title>Crying in H Mart</title>
+    <authors>Michelle Zauner</authors>
+    <published_year>2021</published_year>
+    <isbn_10>0593396596</isbn_10>
+    <isbn_13>9780593396599</isbn_13>
+    <page_count/>
+    <categories>Biography &amp; Autobiography</categories>
+    <thumbnail>http://books.google.com/books/content?id=2HGTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>#1 NEW YORK TIMES BESTSELLER • From the indie rock sensation known as Japanese Breakfast, an unforgettable memoir about family, food, grief, love, and growing up Korean American—“in losing her mother and cooking to bring her back to life, Zauner became herself” (NPR). • CELEBRATING OVER ONE YEAR ON THE NEW YORK TIMES BESTSELLER LIST In this exquisite story of family, food, grief, and endurance, Michelle Zauner proves herself far more than a dazzling singer, songwriter, and guitarist. With humor and heart, she tells of growing up one of the few Asian American kids at her school in Eugene, Oregon; of struggling with her mother's particular, high expectations of her; of a painful adolescence; of treasured months spent in her grandmother's tiny apartment in Seoul, where she and her mother would bond, late at night, over heaping plates of food. As she grew up, moving to the East Coast for college, finding work in the restaurant industry, and performing gigs with her fledgling band--and meeting the man who would become her husband--her Koreanness began to feel ever more distant, even as she found the life she wanted to live. It was her mother's diagnosis of terminal cancer, when Michelle was twenty-five, that forced a reckoning with her identity and brought her to reclaim the gifts of taste, language, and history her mother had given her. Vivacious and plainspoken, lyrical and honest, Zauner's voice is as radiantly alive on the page as it is onstage. Rich with intimate anecdotes that will resonate widely, and complete with family photos, Crying in H Mart is a book to cherish, share, and reread.</description>
+  </book>
+  <book id="55">
+    <original_query>on the origin of species</original_query>
+    <title>On the Origin of Species by Means of Natural Selection, Or, The Preservation of Favoured Races in the Struggle for Life</title>
+    <authors>Charles Darwin</authors>
+    <published_year>1859</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>546</page_count>
+    <categories>Electronic books</categories>
+    <thumbnail>http://books.google.com/books/content?id=jTZbAAAAQAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>It took Charles Darwin more than twenty years to publish this book, in part because he realized that it would ignite a firestorm of controversy. The Origin of Species first appeared in 1859, and it remains a continuing source of conflict to this day. Even among those who reject its ideas, however, the work's impact is undeniable. In science, philosophy, and theology, this is a book that changed the world. In addition to its status as the focus of a dramatic turning point in scientific thought, On the Origin of Species stands as a remarkably readable study. Carefully reasoned and well-documented in its arguments, the work offers coherent views of natural selection, adaptation, the struggle for existence, survival of the fittest, and other concepts that form the foundation of modern evolutionary theory.--Amazon.com.</description>
+  </book>
+  <book id="56">
+    <original_query>the book theif</original_query>
+    <title>The Book Thief</title>
+    <authors>Markus Zusak</authors>
+    <published_year>2007</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>582</page_count>
+    <categories>Juvenile Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=_MnZAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Trying to make sense of the horrors of World War II, Death is fascinated by one young girl, Liesel, whose book-stealing and story-telling talents help sustain her community, especially her family and the Jewish man they are hiding.</description>
+  </book>
+  <book id="57">
+    <original_query>the 7 habits of highly effective people</original_query>
+    <title>The 7 Habits of Highly Effective People</title>
+    <authors>Stephen R. Covey</authors>
+    <published_year>2004</published_year>
+    <isbn_10>0743272455</isbn_10>
+    <isbn_13>9780743272452</isbn_13>
+    <page_count>392</page_count>
+    <categories>Character</categories>
+    <thumbnail>http://books.google.com/books/content?id=upUxaNWSaRIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>A leading management consultant outlines seven organizational rules for improving effectiveness and increasing productivity at work and at home.</description>
+  </book>
+  <book id="58">
+    <original_query>the flower traveled in my blood</original_query>
+    <title>Flügel-Schmidt-Tanger, a Dictionary of the English and German Languages: German-English</title>
+    <authors>Gustav Tanger</authors>
+    <published_year>1897</published_year>
+    <isbn_10/>
+    <isbn_13/>
+    <page_count>1030</page_count>
+    <categories>English language</categories>
+    <thumbnail>http://books.google.com/books/content?id=WDZAAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description/>
+  </book>
+  <book id="59">
+    <original_query>the iliad</original_query>
+    <title>The Iliad</title>
+    <authors>Homer</authors>
+    <published_year>2007</published_year>
+    <isbn_10>0472116177</isbn_10>
+    <isbn_13>9780472116171</isbn_13>
+    <page_count>480</page_count>
+    <categories>History</categories>
+    <thumbnail>http://books.google.com/books/content?id=sos0paw_-cEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>A new translation of Homer's classic follows Merrill's successful earlier version of the "Odyssey" in capturing the feel of the original Greek</description>
+  </book>
+  <book id="60">
+    <original_query>animal farm</original_query>
+    <title>Animal Farm</title>
+    <authors>George Orwell</authors>
+    <published_year>2009</published_year>
+    <isbn_10>1412811902</isbn_10>
+    <isbn_13>9781412811903</isbn_13>
+    <page_count>118</page_count>
+    <categories>Literary Criticism</categories>
+    <thumbnail>http://books.google.com/books/content?id=73wp7OGyZbAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api</thumbnail>
+    <description>This is a classic tale of humanity awash in totalitarianism. A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. First published during the epoch of Stalinist Russia, today it is clear that wherever and whenever freedom is attacked, and under whatever banner, the cutting clarity and savage comedy of Orwell's masterpiece is a message still ferociously fresh.</description>
+  </book>
+  <book id="61">
+    <original_query>the catcher in the rye</original_query>
+    <title>The Catcher in the Rye</title>
+    <authors>Jerome David Salinger</authors>
+    <published_year>1951</published_year>
+    <isbn_10>141764639X</isbn_10>
+    <isbn_13>9781417646395</isbn_13>
+    <page_count>277</page_count>
+    <categories>Caulfield, Holden (Fictitious character)</categories>
+    <thumbnail>http://books.google.com/books/content?id=81k-PgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>In an effort to escape the hypocrisies of life at his boarding school, 16-year-old Holden Caulfield seeks refuge in New York City.</description>
+  </book>
+  <book id="62">
+    <original_query>catch 22</original_query>
+    <title>Catch 22</title>
+    <authors>Joseph Heller</authors>
+    <published_year>2004</published_year>
+    <isbn_10>2246808901</isbn_10>
+    <isbn_13>9782246808909</isbn_13>
+    <page_count>453</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=EyrOAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Catch 22, l'Article 22, est un « attrape-nigaud » qui permet à un colonel américain d'imposer un nombre de missions sans cesse croissant à son escadrille de bombardement basée dans une petite île de la Méditerranée pendant la Seconde Guerre mondiale... Yossaran, héros tragi-comique de cette épopée burlesque, est décidé à tout tenter pour sauver sa peau : il estime que sa seule mission, quand il s'envole, consiste à atterrir vivant. Simuler la folie dans cet univers délirant lui paraît le meilleur moyen de tirer au flanc. Hélas, l'Article 22 stipule : « Quiconque veut se dispenser d'aller au feu n'est pas réellement fou. » Cette première oeuvre de Joseph Heller compte parmi les meilleurs romans américains de l'après-guerre. Joseph Heller, mort en 1999 à l'âge de 76 ans, a publié Catch 22 en 1961. Le livre a été un triomphe immédiat, en particulier auprès de la jeunesse des campus américains qui y a reconnu une charge contre la guerre du Vietnam. Au cinéma, il y a eu M.A.S.H., dans le roman, Catch 22.</description>
+  </book>
+  <book id="63">
+    <original_query>fight cluba</original_query>
+    <title>Fight Club</title>
+    <authors>Chuck Palahniuk</authors>
+    <published_year>2011</published_year>
+    <isbn_10>1448114950</isbn_10>
+    <isbn_13>9781448114955</isbn_13>
+    <page_count>226</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=YgtQHP6srPAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>'Hypnotic, pitiless and told brilliantly' Bret Easton Ellis Every weekend, in basements and parking lots across America, young men with good white-collar jobs and absent fathers take off their shoes and shirts and fight each other. Then they go back to those jobs with blackened eyes and loosened teeth and the sense that they can handle anything. Fight Club is the invention of Tyler Durden, projectionist, waiter and dark, anarchic genius. And it's only the beginning of his plans for revenge on a world where cancer support groups have the corner on human warmth. Read the subversive, savagely funny novel that defined a generation.</description>
+  </book>
+  <book id="64">
+    <original_query>american psycho</original_query>
+    <title>American Psycho</title>
+    <authors>Bret Easton Ellis</authors>
+    <published_year>2007</published_year>
+    <isbn_10>1743038763</isbn_10>
+    <isbn_13>9781743038765</isbn_13>
+    <page_count>486</page_count>
+    <categories>Fiction</categories>
+    <thumbnail>http://books.google.com/books/content?id=wy-ULzz-UIgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api</thumbnail>
+    <description>Is evil something you are? Or is it something you do? Patrick Bateman has it all: good looks, youth, charm, a job on Wall Street, reservations at every new restaurant in town and a line of girls around the block. He is also a psychopath. A man addicted to his superficial, perfect life, he pulls us into a dark underworld where the American Dream becomes a nightmare . . . American Psycho is one of the most controversial and talked-about novels of all time. A multimillion-copy bestseller hailed as a modern classic, it is a violent black comedy about the darkest side of human nature. NOT FOR SALE IN QUEENSLAND</description>
+  </book>
+</books>
