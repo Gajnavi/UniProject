@@ -1,210 +1,187 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Booksop website</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <section class="hero-page">
-      <nav>
-        <div class="logo-holder">
-          <img
-            class="book-logo"
-            src="components/—Pngtree—open book logo_15366757.png"
-            alt=""
-          />
-          <p class="company-name">BookShop</p>
-        </div>
 
-        <div class="search-input-holder">
-          <input class="input-bar" type="text" placeholder="Search..." />
-          <button class="cart-btn">View My Cart</button>
-          <img class="loupe" src="components/icons/loupe.png" alt="" />
-          <img
-            class="shopping-cart-icon"
-            src="components/icons/shopping-cart.png"
-            alt=""
-          />
-        </div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>StarBooks</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
 
-      </nav>
-
-      <div class="hero-details">
-        <div class="book-details">
-          <h1 class="book-title">
-            Biggest <span class="text-enhanced">Bookstore</span> in Mauritius
-          </h1>
-          <p class="author-name">Located at Middlesex Uni, flic en flac</p>
-          <p class="paragraph">
-           Welcome to StarBooks, your neighbourhood bookshop where stories come to life. Our shelves are filled with a diverse range of genres—from thrilling adventures and inspiring biographies to colourful children’s books and exam study guides. We take pride in creating a cosy, friendly environment where every visitor can find something they love, whether you’re a casual reader or a passionate book collector.
-          </p>
-          <a class="program-link-btn" href="">See Program</a>
-        </div>
-
-        <div class="book-container">
-          <img class="book-item" src="components/hero-books/9780008536695.webp" alt="" />
-          <img class="book-item" src="components/hero-books/9780008699185.webp" alt="" />
-          <img class="book-item" src="components/book-item.webp" alt="" />
-          <img class="book-item" src="components/hero-books/9780008739850.jpg" alt="" />
-          
-        </div>
+<body>
+  <section class="hero-page">
+    <nav>
+      <div class="logo-holder">
+        <img class="book-logo" src="components/—Pngtree—open book logo_15366757.png" alt="StarBooks logo" />
+        <p class="company-name">StarBooks</p>
       </div>
-      </div>
-    </section>
 
-    <section>
-      <div class="category-list">
-        <ul class="lists">
-          <li>Top Trending</li>
-          <li>Fiction</li>
-          <li>Deals</li>
-          <li>Books</li>
-          <li>Children</li>
-          <li>Education</li>
-          <li>Interests</li>
-          <li>Work</li>
-          <li>Self-help</li>
-          <li>Mystery</li>
+      <div class="nav-links">
+        <ul class="nav-items">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="books.xml">Books</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </div>
 
-   
+      <!-- <div class="search-input-holder">
+        <input class="input-bar" type="text" placeholder="Search..." />
+      </div> -->
+    </nav>
 
-      <div class="slideshow-container">
-        <div class="slideshow-title-holder">
-          <div class="slideshow-title">TOP TRENDING</div>
-          <div class="slideshow-a-link">See more</div>
-        </div>
+    <div class="hero-details">
+      <div class="book-details">
+        <h1 class="book-title">
+          Biggest <span class="text-enhanced">Bookstore</span> in Mauritius
+        </h1>
+        <p class="author-name">Located inside Middlesex University – Flic en Flac Campus</p>
 
-        <div class="slider">
-          <div class="slide-track">
-            <div class="slide"><img src="components/book-item.webp" /></div>
-            <div class="slide"><img src="components/book-item2.webp" /></div>
-            <div class="slide"><img src="components/book-item3.webp" /></div>
-            <div class="slide"><img src="components/book-item4.webp" /></div>
-            <div class="slide"><img src="components/book-item5.webp" /></div>
-             <div class="slide"><img src="components/book-item.webp" /></div>
-            <div class="slide"><img src="components/book-item2.webp" /></div>
-            <div class="slide"><img src="components/book-item3.webp" /></div>
-            <div class="slide"><img src="components/book-item4.webp" /></div>
-            <div class="slide"><img src="components/book-item5.webp" /></div>
-            <div class="slide"><img src="components/book-item.webp" /></div>
-            <div class="slide"><img src="components/book-item2.webp" /></div>
-            <div class="slide"><img src="components/book-item3.webp" /></div>
-            <div class="slide"><img src="components/book-item4.webp" /></div>
-            <div class="slide"><img src="components/book-item5.webp" /></div>
-  
-           
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="contact-section">
-      <div class="contact-page">
-        <h1 class="contact-header">Preorder a book? </h1>
-        <p class="contact-us">Contact us</p>
-        <div class="down-arrow-container">
-          <img class="down-arrow" src="components/icons/down-chevron (1).png" alt="">
-
-        </div>
+        <p class="paragraph">
+          Discover a world of stories at StarBooks. From gripping thrillers and timeless classics
+          to study guides and children’s favourites, we bring you books curated for every reader.
+          Visit us to explore new arrivals, bestsellers, and exclusive student discounts.
+        </p>
       </div>
 
-    </section>
+      <!-- HERO RIGHT-SIDE BOOKS (Top Trending 4 Books From XML) -->
+      <div class="book-container">
 
-    <section class="contact-info">
-      
-      <div class="opening-hours-table-box">
-        <table class="opening-hours-table">
-    <tr>
-        <th colspan="2">VISIT US</th>
-    </tr>
-    <tr>
-        <td>Monday</td>
-        <td>09:00 – 18:00</td>
-    </tr>
-    <tr>
-        <td>Tuesday</td>
-        <td>09:00 – 18:00</td>
-    </tr>
-    <tr>
-        <td>Wednesday</td>
-        <td>09:00 – 18:00</td>
-    </tr>
-    <tr>
-        <td>Thursday</td>
-        <td>09:00 – 18:00</td>
-    </tr>
-    <tr>
-        <td>Friday</td>
-        <td>09:00 – 18:00</td>
-    </tr>
-    <tr>
-        <td>Saturday</td>
-        <td>09:00 – 13:00</td>
-    </tr>
-    <tr>
-        <td>Sunday</td>
-        <td>Closed</td>
-    </tr>
-</table>
+        <img class="book-item"
+          src="http://books.google.com/books/content?id=UL6Cwv2Z1iQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          alt="Frankenstein" />
+
+        <img class="book-item"
+          src="http://books.google.com/books/content?id=T1VDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          alt="Dracula" />
+
+        <img class="book-item"
+          src="http://books.google.com/books/content?id=27KePwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          alt="Norwegian Wood" />
+
+        <img class="book-item"
+          src="http://books.google.com/books/content?id=uyr8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          alt="1984" />
       </div>
-      <div class="contact-details-table">
-        <div class="contact-icon">Contact us</div>
-        <h1 class="contact-title">Get in Touch With Us</h1>
-        <h1 class="sub-contact-title">Today</h1>
-        <p class="contact-paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis tempore officiis, ex error id dolorum cum dolores, repellendus quas nobis ad veniam. Ad cum blanditiis minus corrupti rerum, neque dolorum.</p>
+    </div>
+  </section>
 
-        <div class="contact-us-icons">
-          <div class="reach-me">
-            <div class="reach-me-info">
-              <img class="phone-icon" src="components/icons/phone-call.png" alt="">
-            </div>
-            <p class="icon-details">+230 5839 9292</p>
-          </div>
+  <!-- CATEGORY NAVIGATION -->
+  <section>
+    <div class="category-list">
+      <ul class="lists">
+        <li><a href="books.xml#top-trending">Top Trending</a></li>
+        <li><a href="books.xml#fiction">Fiction</a></li>
+        <li><a href="books.xml#children">Children</a></li>
+        <li><a href="books.xml#self-help">Self-help</a></li>
+        <li><a href="books.xml#education">Education</a></li>
+        <li><a href="books.xml#mystery">Mystery</a></li>
+      </ul>
+    </div>
 
-          <div class="reach-me">
-            <div class="reach-me-info">
-              <img class="phone-icon" src="components/icons/maps-and-flags.png" alt="">
-            </div>
-            <p class="icon-details">Middlesex, Flic en flac</p>
-          </div>
+    <!-- TOP TRENDING SLIDER -->
+    <div class="slideshow-container">
+      <div class="slideshow-title-holder">
+        <div class="slideshow-title">TOP TRENDING</div>
+        <div class="slideshow-a-link"><a href="books.xml#top-trending">See more</a></div>
+      </div>
 
-          <div class="reach-me">
-            <div class="reach-me-info">
-              <img class="phone-icon" src="components/icons//email.png" alt="">
-            </div>
-            <p class="icon-details">bookstore@gmail.com</p>
-          </div>
+      <div class="slider">
+        <div class="slide-track">
+
+          <!-- First 10 books from XML -->
+          <div class="slide"><img src="http://books.google.com/books/content?id=UL6Cwv2Z1iQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=T1VDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=27KePwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=uyr8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=An2MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=FzVjBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=GR7mQc5R0SYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=S2Yvf-tWNdUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+          <div class="slide"><img src="http://books.google.com/books/content?id=w9A98UIGNMAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"></div>
+
         </div>
       </div>
+    </div>
+  </section>
 
-    </section>
+  <!-- CONTACT SECTION -->
+  <section class="contact-section" id="contact">
+    <div class="contact-page">
+      <h1 class="contact-header">Preorder a Book</h1>
+      <p class="contact-us">
+        <a href="#contact-info" style="color:white; text-decoration:underline;">Contact us</a>
+      </p>
 
-    <footer>
-      <div class="footer-logo">
-        <div class="logo-holder">
-          <img
-            class="book-logo"
-            src="components/—Pngtree—open book logo_15366757.png"
-            alt=""
-          />
-          <p class="company-name">BookShop</p>
+      <div class="down-arrow-container">
+        <img class="down-arrow" src="components/icons/down-chevron (1).png" alt="Scroll down" />
+      </div>
+    </div>
+  </section>
+
+  <section class="contact-info" id="contact-info">
+    <div class="opening-hours-table-box">
+      <table class="opening-hours-table">
+        <tr><th colspan="2">VISIT US</th></tr>
+        <tr><td>Monday</td><td>09:00 – 18:00</td></tr>
+        <tr><td>Tuesday</td><td>09:00 – 18:00</td></tr>
+        <tr><td>Wednesday</td><td>09:00 – 18:00</td></tr>
+        <tr><td>Thursday</td><td>09:00 – 18:00</td></tr>
+        <tr><td>Friday</td><td>09:00 – 18:00</td></tr>
+        <tr><td>Saturday</td><td>09:00 – 13:00</td></tr>
+        <tr><td>Sunday</td><td>Closed</td></tr>
+      </table>
+    </div>
+
+    <div class="contact-details-table">
+      <div class="contact-icon">Contact us</div>
+      <h1 class="contact-title">Get in Touch With Us</h1>
+      <h1 class="sub-contact-title">We’re here to help</h1>
+
+      <p class="contact-paragraph">
+        Need a recommendation? Searching for a specific book?  
+        Reach out to our team — we assist with preorders, availability checks, and special requests.
+      </p>
+
+      <div class="contact-us-icons">
+        <div class="reach-me">
+          <img class="phone-icon" src="components/icons/phone-call.png" alt="">
+          <p class="icon-details">+230 5839 9292</p>
+        </div>
+
+        <div class="reach-me">
+          <img class="phone-icon" src="components/icons/maps-and-flags.png" alt="">
+          <p class="icon-details">Middlesex University, Flic en Flac</p>
+        </div>
+
+        <div class="reach-me">
+          <img class="phone-icon" src="components/icons/email.png" alt="">
+          <p class="icon-details">starbooks.mu@gmail.com</p>
         </div>
       </div>
+    </div>
+  </section>
 
-      <div class="footer-nav">
-        <ul class="">
-          <li>About</li>
-          <li>Contact</li>
-          <li>Terms Of Service</li>
-          <li>Privacy Policy</li>
-        </ul>
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-logo">
+      <div class="logo-holder">
+        <img class="book-logo" src="components/—Pngtree—open book logo_15366757.png" alt="" />
+        <p class="company-name">StarBooks</p>
       </div>
+    </div>
 
-      <p class="rights">© 2023.Bookshop All rights reserved.</p>
-    </footer>
-  </body>
+    <div class="footer-nav">
+      <ul>
+        <li>About</li>
+        <li>Contact</li>
+        <li>Terms Of Service</li>
+        <li>Privacy Policy</li>
+      </ul>
+    </div>
+
+    <p class="rights">© 2023 StarBooks. All rights reserved.</p>
+  </footer>
+
+</body>
 </html>

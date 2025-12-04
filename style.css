@@ -3,7 +3,7 @@
   margin: 0;
 }
 
-
+/* HERO + GENERAL LAYOUT */
 
 .hero-page {
   background-image: url(components/hero-bg-7avif.avif);
@@ -13,98 +13,11 @@
   background-position: center;
 }
 
-.hero-blur-filter {
-  height: 75vh;
-  /* background: linear-gradient(to bottom,
-      rgba(235, 232, 232, 0) 70%,
-      /* fully transparent */
-      rgb(248, 243, 243) 100%
-      /* fully white */
-    ); */
-}
-
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-inline: 40px;
-
-}
-
-.logo-holder {
-  display: flex;
-  align-items: center;
-  font-weight: bold;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 22px;
-
-}
-
-.book-logo {
-  width: 70px;
-  height: 70px;
-}
-
-
-.company-name {
-  color: white;
-}
-
-
-.input-bar {
-  width: 280px;
-  border-radius: 20px;
-  height: 29px;
-  padding-left: 30px;
-  border: none;
-
-}
-
-.search-input-holder {
-  position: relative;
-  display: flex;
-  gap: 10px;
-}
-
-.input-bar::placeholder {
-  padding-left: 10px;
-}
-
-.cart-btn {
-  position: relative;
-  border-radius: 15px;
-  border: none;
-  color: rgb(14, 13, 13);
-  background-color: rgb(253, 255, 253);
-  padding: 6px 15px;
-  text-align: left;
-  width: 130px;
-
-
-}
-
-.shopping-cart-icon {
-  position: absolute;
-  width: 18px;
-  height: 18px;
-  color: white;
-  right: 17px;
-  top: 5px;
-}
-
-.loupe {
-  position: absolute;
-  top: 9px;
-  left: 15px;
-  height: 12px;
-  width: 12px;
-}
-
 .hero-details {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: end;
+  align-items: flex-end;
   height: 55vh;
   padding-inline: 30px;
 }
@@ -112,7 +25,7 @@ nav {
 .book-title {
   color: white;
   font-weight: bolder;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .text-enhanced {
@@ -128,11 +41,13 @@ nav {
 .paragraph {
   max-width: 600px;
   padding-top: 20px;
-  color: white;
   padding-bottom: 20px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: bold;
+  font-size: larger;
 }
-
 
 .program-link-btn {
   background-color: white;
@@ -140,7 +55,6 @@ nav {
   padding: 6px 20px;
   text-decoration: none;
   color: black;
-
 }
 
 .book-container {
@@ -152,13 +66,101 @@ nav {
   width: 70px;
 }
 
+/* NAVBAR */
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  background-color: #954535;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1fr 0px;
+  z-index: 1000;
+}
+
+.logo-holder {
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.book-logo {
+  width: 70px;
+  height: 70px;
+}
+
+.company-name {
+  color: white;
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  font-size: 18px;
+  margin-right: 100px;
+}
+
+.nav-items li a {
+  text-decoration: none;
+  color: white;
+}
+
+nav .input-bar {
+  width: 280px;
+  border-radius: 20px;
+  height: 29px;
+  border: none;
+}
+
+.search-input-holder {
+  position: relative;
+}
+
+.input-bar::placeholder {
+  padding-left: 10px;
+}
+
+.cart-btn {
+  position: relative;
+  border-radius: 15px;
+  border: none;
+  color: rgb(14, 13, 13);
+  background-color: rgb(253, 255, 253);
+  padding: 6px 15px;
+  text-align: left;
+  width: 130px;
+}
+
+.shopping-cart-icon {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  right: 17px;
+  top: 5px;
+}
+
+.loupe {
+  position: absolute;
+  top: 9px;
+  left: 15px;
+  height: 12px;
+  width: 12px;
+}
+
+/* CATEGORY LIST */
+
 .category-list {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(248, 243, 243);
   height: 60px;
-
 }
 
 .lists {
@@ -168,18 +170,23 @@ nav {
   justify-content: center;
   list-style: none;
   font-size: 17px;
-  color: rgb(146, 143, 143);
-
 }
 
-.lists li:hover {
+.category-list .lists li a {
+  text-decoration: none;
+  color: rgb(146, 143, 143);
+}
+
+.lists li:hover a {
   color: orange;
 }
 
-.lists li:first-child {
+.lists li:first-child a {
   text-decoration: underline;
   color: orange;
 }
+
+/* SLIDESHOW */
 
 .slideshow-container {
   display: flex;
@@ -195,15 +202,15 @@ nav {
 
 .slideshow-title {
   padding-left: 50px;
-  font-weight: bold;
   padding-bottom: 20px;
+  font-weight: bold;
   font-size: 20px;
   color: orange;
 }
 
 .slideshow-a-link {
   text-decoration: underline;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .slider {
@@ -242,6 +249,7 @@ nav {
   }
 }
 
+/* CONTACT SECTION */
 
 .contact-section {
   display: flex;
@@ -264,17 +272,13 @@ nav {
   padding: 50px;
   gap: 35px;
   background-color: #d6d3d3;
-
 }
-
-
 
 .contact-header {
   color: rgb(231, 231, 231);
   text-align: center;
   font-size: 40px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', ;
-
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .contact-us {
@@ -296,8 +300,6 @@ nav {
   height: 30px;
 }
 
-
-
 .opening-hours-table-box {
   display: flex;
   justify-content: center;
@@ -306,7 +308,6 @@ nav {
   background-color: rgb(190, 202, 201);
   border-radius: 20px;
   width: 400px;
-  /* transform: translateY(40px); */
   animation: fadeIn 2s ease-in-out;
 }
 
@@ -324,33 +325,29 @@ nav {
 
 .opening-hours-table {
   border-collapse: separate;
-  /* important */
-  border-spacing: 60px 0
+  border-spacing: 60px 0;
 }
 
 .opening-hours-table th {
   color: rgb(44, 44, 44);
   text-align: center;
   font-size: 22px;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   font-weight: bold;
   text-transform: capitalize;
 }
 
 .opening-hours-table td {
   padding: 1px 0;
-  ;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 .contact-details-table {
-  /* border: 3px solid rgb(253, 253, 253); */
   height: 350px;
   width: 600px;
   border-radius: 20px;
-  /* background-color: #c9c4c4; */
-
 }
 
 .contact-icon {
@@ -363,7 +360,7 @@ nav {
 }
 
 .contact-title {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   letter-spacing: 3px;
   padding-top: 15px;
   color: rgb(70, 69, 69);
@@ -371,7 +368,7 @@ nav {
 
 .sub-contact-title {
   color: rgb(17, 169, 198);
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-style: italic;
 }
 
@@ -391,8 +388,6 @@ nav {
   padding-top: 50px;
 }
 
-
-
 .phone-icon {
   width: 30px;
   height: 30px;
@@ -401,8 +396,10 @@ nav {
 .icon-details {
   padding-bottom: 5px;
   color: rgb(66, 65, 65);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
+
+/* FOOTER */
 
 footer {
   background-color: rgb(31, 31, 31);
@@ -411,7 +408,6 @@ footer {
   flex-direction: column;
   align-items: center;
 }
-
 
 .footer-nav ul {
   list-style: none;
@@ -423,4 +419,144 @@ footer {
 .rights {
   color: rgb(168, 167, 167);
   padding-top: 10px;
+}
+
+/* CATALOGUE PAGE TWEAKS */
+
+.hero-page-small {
+  min-height: 40vh;
+}
+
+.hero-details-small {
+  height: 30vh;
+  align-items: flex-start;
+  padding-top: 80px;
+}
+
+.books-page {
+  background-color: rgb(248, 243, 243);
+  padding: 40px 60px 60px;
+}
+
+/* Genre sections */
+
+.genre-section {
+  margin-bottom: 50px;
+}
+
+.genre-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.genre-header h2 {
+  font-size: 22px;
+  color: #954535;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+/* Card grid */
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 25px;
+}
+
+.book-card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.book-cover img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.book-card-title {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.book-card-author {
+  font-size: 12px;
+  color: #777;
+  margin-top: 4px;
+  min-height: 30px;
+}
+
+.book-card-price {
+  margin-top: 8px;
+  font-weight: bold;
+  color: #0077b6;
+}
+
+.book-card-button {
+  margin-top: 10px;
+  padding: 6px 12px;
+  border-radius: 4px;
+  border: none;
+  background-color: #C19A6B;
+  color: white;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.book-card-button:hover {
+  opacity: 0.9;
+}
+
+/* Modal for book description */
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal.show {
+  display: flex;
+}
+
+.modal-content {
+  background: #ffffff;
+  padding: 20px 24px;
+  border-radius: 10px;
+  max-width: 500px;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.modal-close {
+  float: right;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.modal-author {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.modal-description {
+  font-size: 14px;
+  line-height: 1.5;
 }

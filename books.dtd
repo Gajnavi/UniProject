@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!ELEMENT books (book+)>
-<!ELEMENT book (title, author, published_year, isbn_10, isbn_13, page_count, categories, thumbnail, description)>
+<!ELEMENT book (original_query, title, author, published_year, isbn_10, isbn_13, page_count, categories,genre, price, thumbnail, description)>
 
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA)>
@@ -10,6 +10,8 @@
 <!ELEMENT isbn_13 (#PCDATA)>
 <!ELEMENT page_count (#PCDATA)>
 <!ELEMENT categories (category+)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
 <!ELEMENT category (#PCDATA)>
 <!ELEMENT thumbnail (#PCDATA)>
 <!ELEMENT description (#PCDATA)>
