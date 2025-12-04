@@ -1,0 +1,426 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.hero-page {
+  background-image: url(components/hero-bg-7avif.avif);
+  min-height: 75vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-blur-filter {
+  height: 75vh;
+  /* background: linear-gradient(to bottom,
+      rgba(235, 232, 232, 0) 70%,
+      /* fully transparent */
+      rgb(248, 243, 243) 100%
+      /* fully white */
+    ); */
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-inline: 40px;
+
+}
+
+.logo-holder {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+
+}
+
+.book-logo {
+  width: 70px;
+  height: 70px;
+}
+
+
+.company-name {
+  color: white;
+}
+
+
+.input-bar {
+  width: 280px;
+  border-radius: 20px;
+  height: 29px;
+  padding-left: 30px;
+  border: none;
+
+}
+
+.search-input-holder {
+  position: relative;
+  display: flex;
+  gap: 10px;
+}
+
+.input-bar::placeholder {
+  padding-left: 10px;
+}
+
+.cart-btn {
+  position: relative;
+  border-radius: 15px;
+  border: none;
+  color: rgb(14, 13, 13);
+  background-color: rgb(253, 255, 253);
+  padding: 6px 15px;
+  text-align: left;
+  width: 130px;
+
+
+}
+
+.shopping-cart-icon {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  color: white;
+  right: 17px;
+  top: 5px;
+}
+
+.loupe {
+  position: absolute;
+  top: 9px;
+  left: 15px;
+  height: 12px;
+  width: 12px;
+}
+
+.hero-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: end;
+  height: 55vh;
+  padding-inline: 30px;
+}
+
+.book-title {
+  color: white;
+  font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-enhanced {
+  color: rgb(255 164 5);
+  text-decoration: underline;
+}
+
+.author-name {
+  font-style: italic;
+  color: white;
+}
+
+.paragraph {
+  max-width: 600px;
+  padding-top: 20px;
+  color: white;
+  padding-bottom: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.program-link-btn {
+  background-color: white;
+  border-radius: 20px;
+  padding: 6px 20px;
+  text-decoration: none;
+  color: black;
+
+}
+
+.book-container {
+  display: flex;
+  gap: 15px;
+}
+
+.book-item {
+  width: 70px;
+}
+
+.category-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(248, 243, 243);
+  height: 60px;
+
+}
+
+.lists {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  list-style: none;
+  font-size: 17px;
+  color: rgb(146, 143, 143);
+
+}
+
+.lists li:hover {
+  color: orange;
+}
+
+.lists li:first-child {
+  text-decoration: underline;
+  color: orange;
+}
+
+.slideshow-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+}
+
+.slideshow-title-holder {
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 70px;
+}
+
+.slideshow-title {
+  padding-left: 50px;
+  font-weight: bold;
+  padding-bottom: 20px;
+  font-size: 20px;
+  color: orange;
+}
+
+.slideshow-a-link {
+  text-decoration: underline;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.slider {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  overflow: hidden;
+  background: #fff;
+  margin: 0 auto;
+}
+
+.slide-track {
+  display: inline-flex;
+  width: calc(200px * 10);
+  animation: scroll 10s linear infinite;
+}
+
+.slide {
+  width: 120px;
+  margin-right: 20px;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(components/preoder-bg/preorder-bg-pic.avif);
+  height: 270px;
+  margin-top: 100px;
+  padding-bottom: 20px;
+  background-position: center;
+}
+
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 400px;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  gap: 35px;
+  background-color: #d6d3d3;
+
+}
+
+
+
+.contact-header {
+  color: rgb(231, 231, 231);
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', ;
+
+}
+
+.contact-us {
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.down-arrow-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+.down-arrow {
+  width: 30px;
+  height: 30px;
+}
+
+
+
+.opening-hours-table-box {
+  display: flex;
+  justify-content: center;
+  border: none;
+  height: 400px;
+  background-color: rgb(190, 202, 201);
+  border-radius: 20px;
+  width: 400px;
+  /* transform: translateY(40px); */
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.opening-hours-table {
+  border-collapse: separate;
+  /* important */
+  border-spacing: 60px 0
+}
+
+.opening-hours-table th {
+  color: rgb(44, 44, 44);
+  text-align: center;
+  font-size: 22px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.opening-hours-table td {
+  padding: 1px 0;
+  ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.contact-details-table {
+  /* border: 3px solid rgb(253, 253, 253); */
+  height: 350px;
+  width: 600px;
+  border-radius: 20px;
+  /* background-color: #c9c4c4; */
+
+}
+
+.contact-icon {
+  border: 1px solid rgb(204, 201, 201);
+  padding: 6px 12px;
+  width: 80px;
+  border-radius: 16px;
+  background-color: rgb(189, 206, 209);
+  text-align: center;
+}
+
+.contact-title {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 3px;
+  padding-top: 15px;
+  color: rgb(70, 69, 69);
+}
+
+.sub-contact-title {
+  color: rgb(17, 169, 198);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+}
+
+.contact-paragraph {
+  padding-top: 20px;
+}
+
+.contact-us-icons {
+  display: flex;
+  gap: 40px;
+}
+
+.reach-me {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding-top: 50px;
+}
+
+
+
+.phone-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.icon-details {
+  padding-bottom: 5px;
+  color: rgb(66, 65, 65);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+  background-color: rgb(31, 31, 31);
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.footer-nav ul {
+  list-style: none;
+  color: rgb(168, 167, 167);
+  display: flex;
+  gap: 20px;
+}
+
+.rights {
+  color: rgb(168, 167, 167);
+  padding-top: 10px;
+}
